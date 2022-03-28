@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    }
+    header{
+    width: 1280px;
+    height: 800px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+    header div{
+    position: relative;
+    top: 7px;
+    left: 530px;
+    line-height: normal;
+    width: 221px;
+    height: 59px;
+    }
+    h1{
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;    
+    }
+    header img{
+    margin-top: 16px;
+    width: 1280px;
+    height: 727px;
+    background: transparent;
+    opacity: 1;
+    }
+    #primera{
+    position: absolute;
+    top: 800px;
+    width: 1280px;
+    height: 348px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+    #texto{
+    position: absolute;
+    top: 76px;
+    left: 150px;
+    width: 475px;
+    left: 197px;
+    }
+    p{
+    text-align: left;
+    font: normal normal 300 16px/19px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;    
+    }
+    #iguana-1{
+    position: absolute;
+    top: 45px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    opacity: 1;
+    }
+    #texto, #iguana-1{
+    display: inline-block;
+    vertical-align: middle;
+    }
+    #segunda{
+    position: absolute;
+    top: 1148px;
+    width: 1280px;
+    height: 348px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+    }
+    h2{
+    position: absolute;
+    top: 75px;
+    left: 463.5px;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+    #izquierdo{
+    position: absolute;
+    top: 192px;
+    left: 326px;
+    opacity: 1;
+    }
+    .izquierdo{
+    position: absolute;
+    top: 245px;
+    left: 301px;
+    text-align: center;
+    font: normal normal 300 24px/29px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+    #centro{
+    position: absolute;
+    top: 172px;
+    left: 620.41px;
+    opacity: 1;
+    }
+    .centro{
+    position: absolute;
+    top: 244px;
+    left: 591px;
+    text-align: center;
+    font: normal normal 300 24px/29px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+    #derecho{
+    position: absolute;
+    top: 179.39px;
+    left: 915.25px;
+    opacity: 1;
+    }
+    .derecho{
+    position: absolute;
+    top: 244px;
+    left: 832px;
+    text-align: center;
+    font: normal normal 300 24px/29px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+    #final{
+    position: absolute;
+    top: 1496px;
+    width: 1280px;
+    height: 348px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 0.96;
+    }
+    #iguana-2{
+    position: absolute;
+    top: 73px;
+    left: 150px;
+    width: 316px;
+    height: 202px;
+    opacity: 1;
+    }
+    #iguana-3{
+    position: absolute;
+    top: 73px;
+    left: 482px;
+    width: 316px;
+    height: 202px;
+    opacity: 1;
+    }
+    #iguana-4{
+    position: absolute;
+    top: 73px;
+    left: 814px;
+    width: 316px;
+    height: 202px;
+    opacity: 1;
+    }
+    #iguana-2, #iguana-3, #iguana-4{
+    display: inline-block;
+    vertical-align: middle;   
+    }
+    footer{
+    position: absolute;
+    top: 1844px;
+    width: 1280px;
+    height: 102px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+    }
+    footer p{
+    position: absolute;
+    top: 39px;
+    left: 299px;
+    text-align: left;
+    font: normal normal 300 20px/24px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    }
